@@ -14,8 +14,11 @@ React · Next.js · Tailwind · Styled Component · TypeScript · JavaScript · 
 - 🚀 **Interactive Portfolio** — Live portfolio with dynamic sections
 - 📊 **Task & UI Projects** — Clean UI with React and state management
 - 🌍 **Responsive Web Apps** — Strong focus on design + performance
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ovie012&show_icons=true)
 
 📫 Contact me:  
 [Portfolio](https://legenddev-phi.vercel.app) | Email
+
 
 👇 Check out my best projects below!
