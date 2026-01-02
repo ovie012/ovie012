@@ -15,7 +15,7 @@ React · Next.js · Tailwind · Styled Component · TypeScript · JavaScript · 
 - 📊 **Task & UI Projects** — Clean UI with React and state management
 - 🌍 **Responsive Web Apps** — Strong focus on design + performance
 
-📊 **GitHub Stats**
+📊 **GitHub Stats**:
 [GitHub Stats](https://github-readme-stats.vercel.app/api?username=ovie012&show_icons=true)
 
 📫 Contact me:  
