@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Emonefe Ovie (ovie012)
 
-<!--
-**ovie012/ovie012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Frontend Developer | React • Next.js • TypeScript · React Native
+I build interactive, scalable, and modern web apps.
 
-Here are some ideas to get you started:
+🌱 I’m currently:
+- Learning advanced TypeScript patterns
+- Learning React Native for mobile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech I use:
+React · Next.js · Tailwind · Styled Component · TypeScript · JavaScript · HTML · CSS · Git
+
+🌟 Projects & Highlights
+- 🚀 **Interactive Portfolio** — Live portfolio with dynamic sections
+- 📊 **Task & UI Projects** — Clean UI with React and state management
+- 🌍 **Responsive Web Apps** — Strong focus on design + performance
+
+📫 Contact me:  
+[Portfolio](https://legenddev-phi.vercel.app) | Email
+
+👇 Check out my best projects below!
