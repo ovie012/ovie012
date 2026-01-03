@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi there, I'm Emonefe Ovie</h1>
 
-<p  align="center">Frontend Developer | React • React Native • Next.js • TypeScript |        
+<p  align="center">Software Developer | React • React Native • Next.js • TypeScript |        
 Turning clean UI designs into interactive apps with polished UX.</p>
 
 ---
@@ -24,8 +24,8 @@ Turning clean UI designs into interactive apps with polished UX.</p>
 <h2 align="center">💡 About Me</h2>
 
 - 📌 I build **responsive, modern websites and apps (Web / Mobile)** using React • React Native & Next.js  
-- 🧠 Currently improving my Mobile and full-stack skills  
-- 💬 Ask me about **frontend, JavaScript, UI/UX, and Git**  
+- 🧠 Currently improving my mobile and full-stack skills  
+- 💬 Ask me about **software, JavaScript, UI/UX, and Git**  
 - ⚡ Fun fact: I love clean animations and pixel-perfect interfaces!
 
 ---
@@ -56,4 +56,4 @@ React • React Native • Next.js • Tailwind CSS • Styled Component • Red
 
 ## 💬 Let’s Work Together!
 
-I’m always open to collaborating on exciting frontend projects, so feel free to reach out! 😊  
+I’m always open to collaborating on exciting projects, so feel free to reach out! 😊  
