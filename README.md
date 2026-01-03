@@ -15,7 +15,7 @@ Turning clean UI designs into interactive apps with polished UX.</p>
   <a href="https://legenddev-phi.vercel.app" target="_blank">🌐 Website</a> •
   <a href="https://www.linkedin.com/in/ovie-emonefe-73b886259/" target="_blank">LinkedIn</a> •
   <a href="https://x.com/legend_devv" target="_blank">X</a> •
-  <a href="https://www.tiktok.com/@legend.devv" target="_blank">TikTok</a> •
+  <a href="https://www.tiktok.com/@legenddev_softwaredev" target="_blank">TikTok</a> •
   <a href="mailto:ovieemonefe012@gmail.com">Email</a>
 </p>
 
