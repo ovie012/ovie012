@@ -36,7 +36,7 @@ Turning clean UI designs into interactive apps with polished UX.</p>
 JavaScript • TypeScript • HTML • CSS
 
 ### 🧰 Frameworks & Tools
-React • React Native • Next.js • Tailwind CSS • Styled Component • Redux • Git • GitHub
+React • React Native • Next.js • Tailwind CSS • Styled Component • Redux • zustand • Git • GitHub
 
 ---
 
