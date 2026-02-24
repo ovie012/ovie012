@@ -48,10 +48,10 @@ React • React Native • Next.js • Tailwind CSS • Styled Component • Red
 | Project | Description | Demo |
 |--------|-------------|------|
 | **Scrybe** | A Modern School Management System | 🔗 [Live](https://scrybehub.ng/) |
-| **Mini E-commerce** | A mini e-commerce store | 🔗 [Live](https://mlsa-project-assignment-product-list-with-cart-main.vercel.app/) |
-| **Age Calculator UI** | A fun project to know ones exact age | 🔗 [Live](https://age-6th-challenge-react-version.vercel.app/) |
-| **Tip Calculator** | A Project to help calculate tips faster | 🔗 [Live](https://tip-14th-challenge-react-version.vercel.app/) |
 | **My Portfolio** | Take a look at my porfolio for lots more | 🔗 [Live](https://legenddev-phi.vercel.app/) |
+| **Legend Swift Cart** | A mini e-commerce store | 🔗 [Live](https://legend-swift-cart-project.vercel.app/) |
+| **Micro Hub** | A Micro Front-End dashboard platform | 🔗 [Live](https://micro-hub-seven.vercel.app/) |
+| **Brew Board** | A Real-Time collaborative Kanban App | 🔗 [Live](https://brew-board.vercel.app/) |
 </div>
 
 ## 💬 Let’s Work Together!
